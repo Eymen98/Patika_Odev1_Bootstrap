@@ -1,5 +1,5 @@
-# Patika_Odev1_Bootstrap
-Patika.dev_Odev1_Bootstrap
+# Patika_Odev2_Bootstrap
+Patika.dev_Odev2_Bootstrap
 
 Bootstrap ile Instagram Clone.
 
